@@ -65,8 +65,6 @@ Name: Gagandeep
 
 Email: ggagandeep_be23@thapar.edu
 
-GitHub: <Gagan2435>
-
 ✨ This project fulfills the Summer Analytics Capstone requirements and demonstrates practical application of data analytics for smart city parking management.
 
 
